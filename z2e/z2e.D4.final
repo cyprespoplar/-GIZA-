@@ -1,0 +1,21 @@
+# Translation tables for Model 4 .
+# Table for head of cept.
+F: 27 E: 0 
+SUM: 1 
+1 1
+
+F: 43 E: 20 
+SUM: 1 
+2 1
+
+F: 72 E: 39 
+SUM: 1 
+1 1
+
+F: 3 E: 89 
+SUM: 1 
+1 1
+
+# Table for non-head of cept.
+
+FULL-SUM: 4
