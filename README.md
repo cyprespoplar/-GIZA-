@@ -103,9 +103,7 @@ GIZA 的可执行文件。首先，我们调用命令进行词对齐。
 fenxi.py 的功能是将 z2e 中的单向对齐文件结果 z2e.A3.final 读取出来，
 并且根据其结果将最后的图绘制出来并保存在当前目录下的 out.jpg。
 ### GUI.py 
-GUI.py是基于 Tkinter 库编写的 GUI 可视化代码。在本部分，我们只
-给出相关的事件函数，
+GUI.py是基于 Tkinter 库编写的 GUI 可视化代码。
 ### 实验结果
 ![image](https://user-images.githubusercontent.com/98015436/213904372-f42fc9fe-acdb-4c53-92f9-6d171a9284ad.png)
 ![image](https://user-images.githubusercontent.com/98015436/213904387-3033598a-02ec-4e0f-9334-ee4955622ae0.png)
-
