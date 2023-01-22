@@ -49,7 +49,7 @@ zh.vcb.classes.cats 是类别所拥有的一组单词。执行 GIZA++，先在�
 ~~~
 ./GIZA++ -S zh.vcb -T en.vcb -C zh_en.snt -CoocurrenceFile
 zh_en.cooc -o z2e -OutputPath z2e
-2 ./GIZA++ -S en.vcb -T zh.vcb -C en_zh.snt -CoocurrenceFile
+./GIZA++ -S en.vcb -T zh.vcb -C en_zh.snt -CoocurrenceFile
 en_zh.cooc -o e2z -OutputPath e2z
 ~~~
 输出的文件中，z2e.perp 是困惑度。
